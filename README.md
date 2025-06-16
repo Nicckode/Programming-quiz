@@ -28,7 +28,4 @@ Aplicación web interactiva de preguntas tipo quiz para poner a prueba tus conoc
 Haz clic aquí para probar la app en vivo:  
 👉 [https://nicckode.github.io/quiz-app/](https://nicckode.github.io/quiz-app/)
 
----
-
-## 📂 Estructura del proyecto
 
